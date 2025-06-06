@@ -70,7 +70,7 @@ As informações foram integradas para gerar uma matriz de interação entre usu
 
 Com base em simulações sobre o conjunto de teste:
 
-- **Aumento estimado no lucro total**: R$ XX.XXX,XX (valores fictícios substituíveis)
+- **Aumento estimado no lucro total**: R$ 1.639,87
 - **Melhor aproveitamento de ECs com maior taxa**
 - **Maior assertividade na recomendação para usuários com comportamento histórico consistente**
 
